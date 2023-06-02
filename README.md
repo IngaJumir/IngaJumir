@@ -10,7 +10,7 @@
 
 ## QA Software Engineer 
 #### with experience in both Automation and Manual Testing
-<img align="right" width="650" height="550" src="images/png.png">
+<img align="right" width="640" height="540" src="images/png.png">
 <br>
 
 ## Languages and Tools:
@@ -43,10 +43,9 @@
 <br>
 <a href="https://www.linkedin.com/in/ingajumir/" target="blank" >
   <img align="left" width="90" height="25" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  
-  *Feel free to reach out if you have any questions, opportunities, or just want to connect! <br> I'm always excited to collaborate and contribute to impactful projects. <br>Let's make software testing better together!*
 </a>
 
+*Feel free to reach out if you have any questions, opportunities, or just want to connect! <br> I'm always excited to collaborate and contribute to impactful projects. <br>Let's make software testing better together!*
 
 
 <br>
