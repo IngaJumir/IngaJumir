@@ -40,7 +40,6 @@
 
 
 ## Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
-<br>
 <a href="https://www.linkedin.com/in/ingajumir/" target="blank" >
   <img align="left" width="90" height="25" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
