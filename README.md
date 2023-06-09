@@ -10,10 +10,12 @@
 
 ## QA Software Engineer 
 #### with experience in both Automation and Manual Testing
-<img align="right" width="610" height="505" src="images/png.png">
+<img align="right" width="610" height="510" src="images/png.png">
 <br>
 
 ## Languages and Tools:
+
+<br>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="35"/>&nbsp;
 <img alt="Git" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
