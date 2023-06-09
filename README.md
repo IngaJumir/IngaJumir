@@ -10,7 +10,7 @@
 
 ## QA Software Engineer 
 #### with experience in both Automation and Manual Testing
-<img align="right" width="610" height="510" src= "images/Untitled-Artwork.jpg">
+<img align="right" width="610" height="512" src= "images/Untitled-Artwork.jpg">
 <br>
 
 ## Languages and Tools:
