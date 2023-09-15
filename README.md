@@ -55,7 +55,6 @@
 <br>
 
 <p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Software%20QA%20Automation%20Engineer;Experienced%20UI%20and%20API%20Tester;Always%20learning%20new%20things%20:)&font=Fira%20Code&center=true&width=440&height=45&color=FFA500&vCenter=true&pause=1000&size=22" /></a>
 </p> 
