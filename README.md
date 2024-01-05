@@ -63,11 +63,3 @@
 </p> 
 
 ![](https://komarev.com/ghpvc/?username=IngaJumir&color=yellow)
-
-
-### Now Playing — Spotify 🎧
-<p>
-<a href=”https://www.youtube.com/watch?v=nHqe5D4MsCU&redirect=true">
-
-</a>
-</p>
