@@ -42,7 +42,7 @@
 <br>
 
 ## Connect with me: 
-&emsp;<img  width="95"  src= "images/1 (26).JPG"> &emsp;&emsp;
+&emsp;<img  width="100"  src= "images/1 (26).JPG"> &emsp;&emsp;
 <a href="https://www.linkedin.com/in/ingajumir/" target="blank" ><img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
