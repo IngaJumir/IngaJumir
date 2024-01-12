@@ -61,7 +61,7 @@
 </p>
 <p align="right">
  𝘐𝘯 𝘮𝘺 𝘧𝘳𝘦𝘦 𝘵𝘪𝘮𝘦, 𝘐 𝘦𝘯𝘫𝘰𝘺 𝘤𝘺𝘤𝘭𝘪𝘯𝘨, <br> 𝘩𝘪𝘬𝘪𝘯𝘨, 𝘸𝘰𝘳𝘬𝘪𝘯𝘨 𝘰𝘶𝘵, 𝘥𝘳𝘢𝘸𝘪𝘯𝘨 𝘪𝘯 𝘗𝘳𝘰𝘤𝘳𝘦𝘢𝘵𝘦, 𝘢𝘯𝘥 𝘤𝘳𝘰𝘤𝘩𝘦𝘵𝘪𝘯𝘨 𝘈𝘮𝘪𝘨𝘶𝘳𝘶𝘮𝘪 𝘵𝘰𝘺𝘴. <br>
-<img align="right" width="100"  src= "images/1 (16).JPG">
+<a href="https://www.instagram.com/purrsimmon.cat/" target="blank" ><img align="right" width="100"  src= "images/1 (16).JPG">
   
 </p> 
 <br>
