@@ -1,6 +1,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=800000&size=29&multiline=true&width=700&lines=Hello+World!+Welcome+To+My+GitHub+Profile!)](https://git.io/typing-svg)
 <div align="right" >
+<img align="right" width="100"  src= "images/1 (4).JPG">
+<br>
   
 # I'm Inga 
 
@@ -38,7 +40,7 @@
 &ensp;&emsp;<img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" title="Android" alt="Android" width="35"/>
 <br>
 
-## Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="40" height="30">
+## Connect with me:   <img  width="90"  src= "images/1 (26).JPG">
 <a href="https://www.linkedin.com/in/ingajumir/" target="blank" >
   
 &ensp;&emsp;&emsp;<img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -58,11 +60,16 @@
 <img  width="350" src="images/cat-coding.gif" >
 </p>
 <p align="right">
- 𝘐𝘯 𝘮𝘺 𝘧𝘳𝘦𝘦 𝘵𝘪𝘮𝘦, 𝘐 𝘦𝘯𝘫𝘰𝘺 𝘤𝘺𝘤𝘭𝘪𝘯𝘨, <br> 𝘩𝘪𝘬𝘪𝘯𝘨, 𝘸𝘰𝘳𝘬𝘪𝘯𝘨 𝘰𝘶𝘵, 𝘥𝘳𝘢𝘸𝘪𝘯𝘨 𝘪𝘯 𝘗𝘳𝘰𝘤𝘳𝘦𝘢𝘵𝘦, 𝘢𝘯𝘥 𝘤𝘳𝘰𝘤𝘩𝘦𝘵𝘪𝘯𝘨 𝘈𝘮𝘪𝘨𝘶𝘳𝘶𝘮𝘪 𝘵𝘰𝘺𝘴. <br><br>
+ 𝘐𝘯 𝘮𝘺 𝘧𝘳𝘦𝘦 𝘵𝘪𝘮𝘦, 𝘐 𝘦𝘯𝘫𝘰𝘺 𝘤𝘺𝘤𝘭𝘪𝘯𝘨, <br> 𝘩𝘪𝘬𝘪𝘯𝘨, 𝘸𝘰𝘳𝘬𝘪𝘯𝘨 𝘰𝘶𝘵, 𝘥𝘳𝘢𝘸𝘪𝘯𝘨 𝘪𝘯 𝘗𝘳𝘰𝘤𝘳𝘦𝘢𝘵𝘦, 𝘢𝘯𝘥 𝘤𝘳𝘰𝘤𝘩𝘦𝘵𝘪𝘯𝘨 𝘈𝘮𝘪𝘨𝘶𝘳𝘶𝘮𝘪 𝘵𝘰𝘺𝘴. <br>
+<img align="right" width="100"  src= "images/1 (16).JPG">
+  
 </p> 
+<br>
+<br>
+<br>
 
 ![](https://komarev.com/ghpvc/?username=IngaJumir&color=yellow)
 
 <!-- <a target="_blank" href = "https://soundcloud.com/gabrielanddresden/andain-beautiful-things?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"> Vibing <img  width="60" src = "images/Andain-Beautiful-Things-Gabriel-Dresden-Unplugged-Mix.webp" onclick = "alert('Ready for the best song?')"> </a> -->
 
-<!--<img align="right" width="300"  src= "images/b46f398f-bd00-4aa9-a58d-77cce80f5e64.JPG">-->
+
