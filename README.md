@@ -19,7 +19,7 @@
 ## Languages and Tools:
 
 <br>
-<br>
+
 
 &ensp;&emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="35"/>
 &ensp;&emsp;<img alt="Git" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -39,9 +39,8 @@
 &ensp;&emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width="35"/>
 &ensp;&emsp;<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" width="35"/>
 &ensp;&emsp;<img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" title="Android" alt="Android" width="35"/>
-<br>
 
-## Connect with me:   <img  width="60"  src= "images/1 (26).JPG">
+## Connect with me:   <img  width="50"  src= "images/1 (26).JPG">
 <a href="https://www.linkedin.com/in/ingajumir/" target="blank" >
   
 &ensp;&emsp;&emsp;<img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
