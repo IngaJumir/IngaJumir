@@ -41,12 +41,17 @@
 &ensp;&emsp;<img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" title="Android" alt="Android" width="35"/>
 <br>
 
-## Connect with me: 
+<details>
+<summary><h2>Connect with me:</h2></summary>
+  
+[<img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/ingajumir/)<br>
+[<img width="80px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />](mailto:recipient@email.com)<br>
+
+
+</details>
+
 &emsp;<img  width="85"  src= "images/1 (26).JPG"> &emsp;&emsp;
-<a href="https://www.linkedin.com/in/ingajumir/" target="blank" ><img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-
-<br>
 
 
 *Feel free to reach out if you have any questions, opportunities, or just want to connect! <br> I'm always excited to collaborate and contribute to impactful projects. <br> Let's make software testing better together!*
