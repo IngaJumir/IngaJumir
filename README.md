@@ -42,8 +42,8 @@
 <br>
 
 ## Connect with me: 
-<img  width="100"  src= "images/1 (26).JPG"><br>
-<a href="https://www.linkedin.com/in/ingajumir/" target="blank" ><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+&emsp;<img  width="85"  src= "images/1 (26).JPG"> &emsp;&emsp;
+<a href="https://www.linkedin.com/in/ingajumir/" target="blank" ><img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 <br>
