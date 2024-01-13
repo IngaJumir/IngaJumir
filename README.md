@@ -45,12 +45,10 @@
 <summary><h2>Connect with me:</h2></summary>
   
 [<img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/ingajumir/)<br>
-[<img width="80px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />](mailto:recipient@email.com)<br>
-
-
+[<img width="80px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />](mailto:ingajumir@gmail.com)
 </details>
 
-&emsp;<img  width="85"  src= "images/1 (26).JPG"> &emsp;&emsp;
+&ensp;&emsp;&emsp;<img  width="85"  src= "images/1 (26).JPG">
 
 
 
