@@ -73,7 +73,3 @@
 <br>
 
 ![](https://komarev.com/ghpvc/?username=IngaJumir&color=yellow)
-
-<!-- <a target="_blank" href = "https://soundcloud.com/gabrielanddresden/andain-beautiful-things?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"> Vibing <img  width="60" src = "images/Andain-Beautiful-Things-Gabriel-Dresden-Unplugged-Mix.webp" onclick = "alert('Ready for the best song?')"> </a> -->
-
-
