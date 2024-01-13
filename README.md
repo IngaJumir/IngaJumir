@@ -42,12 +42,12 @@
 <br>
 
 ## Connect with me: 
-<img  width="100"  src= "images/1 (26).JPG"> &emsp;
+<img  width="100"  src= "images/1 (26).JPG"><br>
 <a href="https://www.linkedin.com/in/ingajumir/" target="blank" ><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 
 <br>
-<br>
+
 
 *Feel free to reach out if you have any questions, opportunities, or just want to connect! <br> I'm always excited to collaborate and contribute to impactful projects. <br> Let's make software testing better together!*
 
