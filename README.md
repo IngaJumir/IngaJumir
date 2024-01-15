@@ -15,6 +15,7 @@
 #### with experience in both Automation and Manual Testing
 <img align="right" width="618" height="512" src= "images/Artwork.png">
 <br>
+<br>
 
 ## Languages and Tools:
 
