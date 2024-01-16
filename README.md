@@ -32,10 +32,10 @@
 &ensp;&emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title="HTML" width="35"/> 
 &ensp;&emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title="CSS" width="35"/><br>
 &ensp;&emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" title="Selenium WebDriver" width="30"/> 
-&ensp;&emsp;<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="35"/>
-&ensp;&emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-plain-wordmark.svg" title="Jira" width="35"/> <br>
-&ensp;&emsp;<img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" title="Postman" width="34" />
-&ensp;&emsp;<img src="https://camo.githubusercontent.com/b85ed21c6f62093d8886b6b1015b8ddb03009cf25ddebe58b882360cb96c5c26/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f77696e646f77732e737667" title="Windows" width="35"/>
+&ensp;&emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-plain-wordmark.svg" title="Jira" width="35"/> 
+&ensp;&emsp;<img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" title="Postman" width="34" /><br>
+&ensp;&ensp;<img src="https://camo.githubusercontent.com/b85ed21c6f62093d8886b6b1015b8ddb03009cf25ddebe58b882360cb96c5c26/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f77696e646f77732e737667" title="Windows" width="35"/>
+&ensp;&emsp;<img src="https://camo.githubusercontent.com/242404e7933ffa6a744979946bcfb06d8bd659957697c34a6351585c1dba707a/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6d61636f732e737667" title="MacOS" width="40"/>
 &ensp;&emsp;<img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" title="Android" alt="Android" width="35"/><br>
 &ensp;&emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" title="Slack" width="32"/>
 &ensp;&emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" title="MySQL" width="35"/>
