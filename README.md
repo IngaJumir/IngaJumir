@@ -42,7 +42,6 @@
 <br>
 <br>
 <br>
-<br>
 
 <details>
 <summary>Connect with me:</summary>
