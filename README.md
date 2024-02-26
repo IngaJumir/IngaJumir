@@ -19,9 +19,6 @@
 
 ## Languages and Tools:
 
-<br>
-
-
 &ensp;&emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" title="Github" width="35"/>
 &ensp;&emsp;<img alt="Git" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" />
 &ensp;&ensp;<img src="https://camo.githubusercontent.com/a790e8e5e2b7edcf9ef24e2cbccb1802f4fedb001a6f66a17cad37f57ba85b15/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6a6176612e737667" title="Java" width="48"/><br>
@@ -43,8 +40,9 @@
 <br>
 
 <details>
-<summary><h2>Connect with me:</h2></summary>
-  
+<summary style="font-size: 1.5em; font-weight: bold;">Connect with me:</summary>
+<br>
+
 [<img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/ingajumir/)<br>
 [<img width="80px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />](mailto:ingajumir@gmail.com)
 </details>
