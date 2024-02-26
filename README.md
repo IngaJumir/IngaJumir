@@ -28,7 +28,7 @@
 &ensp;&emsp;<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" title="IntelliJ" width="30"/>
 &ensp;&emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title="Python" width="35"/> 
 &ensp;&emsp;<img src="https://blog.jetbrains.com/wp-content/uploads/2019/01/pycharm_icon.svg" title="Pycharm" width="35" alt="PyCharm"/> <br>
-&ensp;&emsp;<img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" title="Jenkins" width="29"/>
+&ensp;&emsp;<img src="https://d2h1nbmw1jjnl.cloudfront.net/company_directory_entries/company_logos/000/000/328/original/bstack_2x.png?1582638320" title="Browserstack" width="35"/>
 &ensp;&emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title="HTML" width="35"/> 
 &ensp;&emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title="CSS" width="35"/><br>
 &ensp;&emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" title="Selenium WebDriver" width="30"/> 
