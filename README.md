@@ -13,11 +13,13 @@
 
 ## QA Software Engineer 
 #### with experience in both Automation and Manual Testing
-<img align="right" width="618" height="512" src= "images/Artwork.png">
+<img align="right" width="640" height="540" src= "images/Artwork.png">
 <br>
 <br>
 
-## Languages and Tools:
+### Languages and Tools:
+
+<br>
 
 &ensp;&emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" title="Github" width="35"/>
 &ensp;&emsp;<img alt="Git" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" />
@@ -25,7 +27,7 @@
 &ensp;&emsp;<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" title="IntelliJ" width="30"/>
 &ensp;&emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title="Python" width="35"/> 
 &ensp;&emsp;<img src="https://blog.jetbrains.com/wp-content/uploads/2019/01/pycharm_icon.svg" title="Pycharm" width="35" alt="PyCharm"/> <br>
-&ensp;&emsp;<img src="https://d2h1nbmw1jjnl.cloudfront.net/company_directory_entries/company_logos/000/000/328/original/bstack_2x.png?1582638320" title="Browserstack" width="35"/>
+&ensp;&emsp;<img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" title="Jenkins" width="25"/>
 &ensp;&emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title="HTML" width="35"/> 
 &ensp;&emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title="CSS" width="35"/><br>
 &ensp;&emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" title="Selenium WebDriver" width="30"/> 
@@ -38,9 +40,10 @@
 &ensp;&emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" title="MySQL" width="35"/>
 &ensp;&emsp;<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" title="SQL" width="35"/>
 <br>
+<br>
 
 <details>
-<summary style="font-size: 1.5em; font-weight: bold;">Connect with me:</summary>
+<summary>Connect with me:</summary>
 <br>
 
 [<img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/ingajumir/)<br>
