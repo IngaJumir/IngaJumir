@@ -51,7 +51,7 @@
 [<img width="80px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />](mailto:ingajumir@gmail.com)
 </details>
 
-&ensp;&emsp;&emsp;<img  width="85"  src= "images/1 (26).JPG">
+&ensp;&emsp;<img  width="85"  src= "images/1 (26).JPG">
 
 
 
