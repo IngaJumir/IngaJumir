@@ -47,7 +47,7 @@
 <summary>Connect with me:</summary>
 <br>
 
-[<img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/ingajumir/)<br>
+[<img width="80px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/ingajumir/)<br>
 [<img width="80px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />](mailto:ingajumir@gmail.com)
 </details>
 
